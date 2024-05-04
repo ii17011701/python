@@ -1,0 +1,12 @@
+a=2
+b=2
+sum = a + b 
+sub=a-b
+mul=a*b
+div=a/b
+mod=a%b
+print("2 + 2 =",sum)
+print("2 - 2 =",sub)
+print("2 * 2 =",mul)
+print("2 / 2 =",div)
+print("2 % 2 =",mod)
