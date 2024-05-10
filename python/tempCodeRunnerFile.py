@@ -1,12 +1,6 @@
-a=2
-b=2
-sum = a + b 
-sub=a-b
-mul=a*b
-div=a/b
-mod=a%b
-print("2 + 2 =",sum)
-print("2 - 2 =",sub)
-print("2 * 2 =",mul)
-print("2 / 2 =",div)
-print("2 % 2 =",mod)
+r=65
+for A in range (1,4,1):
+    for B in range (0,A,1):
+        print(chr(r),end=" ")
+        r= r+1
+        print("\n")
